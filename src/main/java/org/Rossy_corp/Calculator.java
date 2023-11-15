@@ -4,13 +4,11 @@ public class Calculator {
   public Calculator() {}
 
   public double addition(double firstNumber, double secondNumber) {
-    double sum = firstNumber + secondNumber;
-    return sum;
+    return firstNumber + secondNumber;
   }
 
   public double subtraction(double firstNumber, double secondNumber){
-    double difference = firstNumber - secondNumber;
-    return difference;
+    return firstNumber + secondNumber;
   }
 
 }
